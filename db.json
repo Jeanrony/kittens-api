@@ -1,0 +1,12 @@
+{
+  "kittens": [
+    {
+      "color": "red",
+      "race": "persan",
+      "dateOfBirth": "2019-03-29T08:41:09.019Z",
+      "sex": 0,
+      "adopt": true,
+      "id": "sktwicrzjttwha1v"
+    }
+  ]
+}
